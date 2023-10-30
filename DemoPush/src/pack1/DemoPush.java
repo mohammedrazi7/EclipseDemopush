@@ -6,6 +6,7 @@ public class DemoPush {
 		// TODO Auto-generated method stub
 		System.out.println("Welcome to GPREC");
 		System.out.println("Welcome to CSE");
+		System.out.println("Welcome to ITCA");
 	}
 
 }
